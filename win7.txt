@@ -1,0 +1,600 @@
+﻿
+Product Key       : 7Q28W-FT9PC-CMMYT-WHMY2-89M6G
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-946-6744545-85240
+Extended PID      : 00000-00170-946-674454-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:71c7c851-1863-4232-8ac2-cdd7f5e45dae&LDbacHsAAAAAAAAA
+Activation ID     : 71c7c851-1863-4232-8ac2-cdd7f5e45dae
+Description       : Windows 7 Starter Retail
+Edition           : Starter
+Part number       : X15-39734
+Label ID          : 00170-946-674-454
+Key Type          : Retail
+EULA              : Retail
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 946674454 (0x386D1B16)
+Security          : 246 (0xF6)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.018 s
+
+Progress          : 1 of 24 (4%)
+
+--------------------------------------------------------------
+
+Product Key       : RDJXR-3M32B-FJT32-QMPGB-GCFF6
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8992752-30004
+Extended PID      : 00000-00178-927-530004-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:8be4a481-9b5c-4588-a5ec-5dad4b1f15da&KPiRbhUBAAAAAAAA
+Activation ID     : 8be4a481-9b5c-4588-a5ec-5dad4b1f15da
+Description       : Windows 7 Starter OEM:SLP
+Edition           : Starter
+Part number       : X15-39275
+Label ID          : 00178-927-530-004
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 927530004 (0x3748FC14)
+Security          : 554 (0x22A)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.865 s
+
+Progress          : 2 of 24 (8%)
+
+--------------------------------------------------------------
+
+Product Key       : QYF43-WRMFY-G6R22-9232Y-WJ7MR
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8693522-25132
+Extended PID      : 00000-00172-935-225132-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:197247fa-8fb7-4a9d-9415-1ba0e14215e8&WM58b78BAAAAAAAA
+Activation ID     : 197247fa-8fb7-4a9d-9415-1ba0e14215e8
+Description       : Windows 7 Starter OEM:NONSLP
+Edition           : Starter
+Part number       : X15-39000
+Label ID          : 00172-935-225-132
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 172 (0xAC)
+Key ID            : 935225132 (0x37BE672C)
+Security          : 894 (0x37E)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.795 s
+
+Progress          : 3 of 24 (12%)
+
+--------------------------------------------------------------
+
+Product Key       : RBQK4-8CVJ6-J7499-HQPYG-M93PP
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9548324-19652
+Extended PID      : 00000-00190-483-219652-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:1d90c7cc-f3cc-4c2f-9650-7ac451fc73eb&iLGaOUoAAAAAAAAA
+Activation ID     : 1d90c7cc-f3cc-4c2f-9650-7ac451fc73eb
+Description       : Windows 7 Starter OEM:COA
+Edition           : Starter
+Part number       : X15-37344
+Label ID          : 00190-483-219-652
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 190 (0xBE)
+Key ID            : 483219652 (0x1CCD58C4)
+Security          : 148 (0x94)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.332 s
+
+Progress          : 4 of 24 (17%)
+
+--------------------------------------------------------------
+
+Product Key       : YFC4Q-GKXB4-D8PYP-4GCB2-DRFD8
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-112-3481005-86599
+Extended PID      : 00000-00172-112-348100-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:6c7afc31-950c-4fa8-93ee-3e880aa97e5d&iJdkjd0BAAAAAAAA
+Activation ID     : 6c7afc31-950c-4fa8-93ee-3e880aa97e5d
+Description       : Windows 7 Home Basic Retail
+Edition           : HomeBasic
+Part number       : X15-39017
+Label ID          : 00172-112-348-100
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 172 (0xAC)
+Key ID            : 112348100 (0x6B24BC4)
+Security          : 955 (0x3BB)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 0.843 s
+
+Progress          : 5 of 24 (21%)
+
+--------------------------------------------------------------
+
+Product Key       : MB4HF-2Q8V3-W88WR-K7287-2H4CP
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8992752-50004
+Extended PID      : 00000-00178-927-550004-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:bde0d4a5-2f2a-4bff-9d75-4a497d2d0019&aJSS7p4BAAAAAAAA
+Activation ID     : bde0d4a5-2f2a-4bff-9d75-4a497d2d0019
+Description       : Windows 7 Home Basic OEM:SLP
+Edition           : HomeBasic
+Part number       : X15-39278
+Label ID          : 00178-927-550-004
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 927550004 (0x37494A34)
+Security          : 829 (0x33D)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.823 s
+
+Progress          : 6 of 24 (25%)
+
+--------------------------------------------------------------
+
+Product Key       : 72TPD-PBVXH-TKV26-KKMJJ-9JC6D
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8949705-40384
+Extended PID      : 00000-00178-497-040384-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:774d5df6-d8dd-4d92-98bc-58825849d249&AHhAu1MBAAAAAAAA
+Activation ID     : 774d5df6-d8dd-4d92-98bc-58825849d249
+Description       : Windows 7 Home Basic OEM:NONSLP
+Edition           : HomeBasic
+Part number       : X15-39355
+Label ID          : 00178-497-040-384
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 497040384 (0x1DA03C00)
+Security          : 679 (0x2A7)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.772 s
+
+Progress          : 7 of 24 (29%)
+
+--------------------------------------------------------------
+
+Product Key       : FBDQV-876VK-74K9M-MDPX8-T89XF
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9509642-09918
+Extended PID      : 00000-00190-096-409918-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:9821c9cb-288b-4c98-96f9-adc75a15eaf4&fDJ+i+8BAAAAAAAA
+Activation ID     : 9821c9cb-288b-4c98-96f9-adc75a15eaf4
+Description       : Windows 7 Home Basic OEM:COA
+Edition           : HomeBasic
+Part number       : X15-37303
+Label ID          : 00190-096-409-918
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 190 (0xBE)
+Key ID            : 96409918 (0x5BF193E)
+Security          : 991 (0x3DF)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.287 s
+
+Progress          : 8 of 24 (33%)
+
+--------------------------------------------------------------
+
+Product Key       : YD299-7RXBC-QYWKV-TV6DF-8WDFQ
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-112-7088165-85907
+Extended PID      : 00000-00170-112-708816-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:2e7d060d-4714-40f2-9896-1e4f15b612ad&oJlvDXgBAAAAAAAA
+Activation ID     : 2e7d060d-4714-40f2-9896-1e4f15b612ad
+Description       : Windows 7 Home Premium Retail
+Edition           : HomePremium
+Part number       : X15-39665
+Label ID          : 00170-112-708-816
+Key Type          : Retail
+EULA              : Retail
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 112708816 (0x6B7CCD0)
+Security          : 752 (0x2F0)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 0.790 s
+
+Progress          : 9 of 24 (38%)
+
+--------------------------------------------------------------
+
+Product Key       : VQB3X-Q3KP8-WJ2H8-R6B6D-7QJB7
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8992687-00006
+Extended PID      : 00000-00178-926-800006-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:d2c04e90-c3dd-4260-b0f3-f845f5d27d64&DLF77h4BAAAAAAAA
+Activation ID     : d2c04e90-c3dd-4260-b0f3-f845f5d27d64
+Description       : Windows 7 Home Premium OEM:SLP
+Edition           : HomePremium
+Part number       : X15-37379
+Label ID          : 00178-926-800-006
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 926800006 (0x373DD886)
+Security          : 573 (0x23D)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.767 s
+
+Progress          : 10 of 24 (42%)
+
+--------------------------------------------------------------
+
+Product Key       : YBR3F-PV6G7-RYXBV-F2GJP-3XJC3
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8704277-88204
+Extended PID      : 00000-00174-042-788204-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:586bc076-c93d-429a-afe5-a69fbc644e88&2MoZhfAAAAAAAAAA
+Activation ID     : 586bc076-c93d-429a-afe5-a69fbc644e88
+Description       : Windows 7 Home Premium OEM:NONSLP
+Edition           : HomePremium
+Part number       : X15-37356
+Label ID          : 00174-042-788-204
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 174 (0xAE)
+Key ID            : 42788204 (0x28CE56C)
+Security          : 481 (0x1E1)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.822 s
+
+Progress          : 11 of 24 (46%)
+
+--------------------------------------------------------------
+
+Product Key       : YCM7C-GQRC8-FMMKY-D4XJG-3HY2F
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9803861-62640
+Extended PID      : 00000-00196-038-662640-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:5e017a8a-f3f9-4167-b1bd-ba3e236a4d8f&4OObBAcBAAAAAAAA
+Activation ID     : 5e017a8a-f3f9-4167-b1bd-ba3e236a4d8f
+Description       : Windows 7 Home Premium OEM:COA
+Edition           : HomePremium
+Part number       : X15-37340
+Label ID          : 00196-038-662-640
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 196 (0xC4)
+Key ID            : 38662640 (0x24DF1F0)
+Security          : 526 (0x20E)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.232 s
+
+Progress          : 12 of 24 (50%)
+
+--------------------------------------------------------------
+
+Product Key       : H7QGP-3PQBK-VYTTB-2GMTK-G9JQW
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-840-3972966-85075
+Extended PID      : 00000-00170-840-397296-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:e838d943-63ed-4a0b-9fb1-47152908acc9&4OMuZMIAAAAAAAAA
+Activation ID     : e838d943-63ed-4a0b-9fb1-47152908acc9
+Description       : Windows 7 Professional Retail
+Edition           : Professional
+Part number       : X15-39021
+Label ID          : 00170-840-397-296
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 840397296 (0x321771F0)
+Security          : 388 (0x184)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 0.800 s
+
+Progress          : 13 of 24 (54%)
+
+--------------------------------------------------------------
+
+Product Key       : YKHFT-KW986-GK4PY-FDWYH-7TP9F
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8992671-00004
+Extended PID      : 00000-00178-926-700004-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:50e329f7-a5fa-46b2-85fd-f224e5da7764&yKN47mQBAAAAAAAA
+Activation ID     : 50e329f7-a5fa-46b2-85fd-f224e5da7764
+Description       : Windows 7 Professional OEM:SLP
+Edition           : Professional
+Part number       : X15-37377
+Label ID          : 00178-926-700-004
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 926700004 (0x373C51E4)
+Security          : 713 (0x2C9)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.763 s
+
+Progress          : 14 of 24 (58%)
+
+--------------------------------------------------------------
+
+Product Key       : MBG2M-6MWTQ-2DMVT-QHYCM-WW827
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9044416-41820
+Extended PID      : 00000-00180-444-141820-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:e120e868-3df2-464a-95a0-b52fa5ada4bf&+CHytEYBAAAAAAAA
+Activation ID     : e120e868-3df2-464a-95a0-b52fa5ada4bf
+Description       : Windows 7 Professional OEM:NONSLP
+Edition           : Professional
+Part number       : X15-37362
+Label ID          : 00180-444-141-820
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 180 (0xB4)
+Key ID            : 444141820 (0x1A7910FC)
+Security          : 653 (0x28D)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.248 s
+
+Progress          : 15 of 24 (62%)
+
+--------------------------------------------------------------
+
+Product Key       : BC8BC-2CGJ9-HTDW4-CW8C2-DW3XV
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9308611-32972
+Extended PID      : 00000-00186-086-132972-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:da22eadd-46dc-4056-a287-f5041c852470&2JFEipwAAAAAAAAA
+Activation ID     : da22eadd-46dc-4056-a287-f5041c852470
+Description       : Windows 7 Professional OEM:COA
+Edition           : Professional
+Part number       : X15-37341
+Label ID          : 00186-086-132-972
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 186 (0xBA)
+Key ID            : 86132972 (0x52248EC)
+Security          : 313 (0x139)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.224 s
+
+Progress          : 16 of 24 (67%)
+
+--------------------------------------------------------------
+
+Product Key       : FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-868-0000007-85350
+Extended PID      : 00000-00170-868-000000-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:b92e9980-b9d5-4821-9c94-140f632f6312&AEJ55xoBAAAAAAAA
+Activation ID     : b92e9980-b9d5-4821-9c94-140f632f6312
+Description       : Windows 7 Professional Volume:GVLK
+Edition           : Professional
+Part number       : X15-39170
+Label ID          : 00170-868-000-000
+Key Type          : Volume:GVLK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 868000000 (0x33BCA100)
+Security          : 565 (0x235)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 0.793 s
+
+Progress          : 17 of 24 (71%)
+
+--------------------------------------------------------------
+
+Product Key       : BKKXC-X7TQ8-TVXPG-W8BXQ-MWWKP
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-152-0916507-86855
+Extended PID      : 00000-00172-152-091650-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:9abf5984-9c16-46f2-ad1e-7fe15931a8dd&BHghkvIBAAAAAAAA
+Activation ID     : 9abf5984-9c16-46f2-ad1e-7fe15931a8dd
+Description       : Windows 7 All Volume Editions Volume:MAK
+Edition           : Enterprise;EnterpriseN;EnterpriseE;Professional;ProfessionalN;ProfessionalE
+Part number       : X15-39073
+Label ID          : 00172-152-091-650
+Key Type          : Volume:MAK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 172 (0xAC)
+Key ID            : 152091650 (0x910BC02)
+Security          : 997 (0x3E5)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 0.778 s
+
+Progress          : 18 of 24 (75%)
+
+--------------------------------------------------------------
+
+Product Key       : 4FXKT-7FGMM-62FT3-R6T2Q-7BHJ8
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-069-4664384-86689
+Extended PID      : 00000-00172-069-466438-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:a0cde89c-3304-4157-b61c-c8ad785d1fad&jPJHiC8BAAAAAAAA
+Activation ID     : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description       : Windows 7 Ultimate Retail
+Edition           : Ultimate
+Part number       : X15-39004
+Label ID          : 00172-069-466-438
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 172 (0xAC)
+Key ID            : 69466438 (0x423F946)
+Security          : 607 (0x25F)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 0.774 s
+
+Progress          : 19 of 24 (79%)
+
+--------------------------------------------------------------
+
+Product Key       : FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-8992662-00006
+Extended PID      : 00000-00178-926-600006-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:7cfd4696-69a9-4af7-af36-ff3d12b6b6c8&jJZ1btgAAAAAAAAA
+Activation ID     : 7cfd4696-69a9-4af7-af36-ff3d12b6b6c8
+Description       : Windows 7 Ultimate OEM:SLP
+Edition           : Ultimate
+Part number       : X15-37374
+Label ID          : 00178-926-600-006
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 178 (0xB2)
+Key ID            : 926600006 (0x373ACB46)
+Security          : 432 (0x1B0)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 0.805 s
+
+Progress          : 20 of 24 (83%)
+
+--------------------------------------------------------------
+
+Product Key       : BMB34-PMB4B-3DBVK-BVYTT-JXXQQ
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9154295-64842
+Extended PID      : 00000-00182-542-964842-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:cfb3e52c-d707-4861-af51-11b27ee6169c&1Pi5QIMAAAAAAAAA
+Activation ID     : cfb3e52c-d707-4861-af51-11b27ee6169c
+Description       : Windows 7 Ultimate OEM:NONSLP
+Edition           : Ultimate
+Part number       : X15-37358
+Label ID          : 00182-542-964-842
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 182 (0xB6)
+Key ID            : 542964842 (0x205CFC6A)
+Security          : 262 (0x106)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.233 s
+
+Progress          : 21 of 24 (88%)
+
+--------------------------------------------------------------
+
+Product Key       : Q4GT6-JJ9RF-RHQTG-BXJHC-RXHX4
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-OEM-9403041-74736
+Extended PID      : 00000-00188-030-474736-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:022a1afb-b893-4190-92c3-8f69a49839fb&4AOigwkAAAAAAAAA
+Activation ID     : 022a1afb-b893-4190-92c3-8f69a49839fb
+Description       : Windows 7 Ultimate OEM:COA
+Edition           : Ultimate
+Part number       : X15-37347
+Label ID          : 00188-030-474-736
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 188 (0xBC)
+Key ID            : 30474736 (0x1D101F0)
+Security          : 19 (0x13)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.242 s
+
+Progress          : 22 of 24 (92%)
+
+--------------------------------------------------------------
+
+Product Key       : H7X92-3VPBB-Q799D-Y6JJ3-86WC6
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-914-0000007-85704
+Extended PID      : 00000-00170-914-000000-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:b793ff2d-9d80-407c-b521-85111c51028c&ABH1bD8BAAAAAAAA
+Activation ID     : b793ff2d-9d80-407c-b521-85111c51028c
+Description       : Windows 7 Enterprise Retail
+Edition           : Enterprise
+Part number       : X15-39053
+Label ID          : 00170-914-000-000
+Key Type          : Retail
+EULA              : Retail
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 914000000 (0x367A8880)
+Security          : 638 (0x27E)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 0.782 s
+
+Progress          : 23 of 24 (96%)
+
+--------------------------------------------------------------
+
+Product Key       : 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH
+Profile           : 7601 - Windows 7 - Server 2008 R2
+Result            : Specified key is valid
+Product ID        : 00000-918-5000002-85475
+Extended PID      : 00000-00170-918-500000-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:ae2ee509-1b34-41c0-acb7-6d4650168915&QGV+basAAAAAAAAA
+Activation ID     : ae2ee509-1b34-41c0-acb7-6d4650168915
+Description       : Windows 7 Enterprise Volume:GVLK
+Edition           : Enterprise
+Part number       : X15-39166
+Label ID          : 00170-918-500-000
+Key Type          : Volume:GVLK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 170 (0xAA)
+Key ID            : 918500000 (0x36BF32A0)
+Security          : 342 (0x156)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 0.797 s
+
+Progress          : 24 of 24 (100%)
+
+--------------------------------------------------------------
