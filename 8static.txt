@@ -1,0 +1,13 @@
+Installation keys
+In the install process of Windows 8, setup will ask to enter the key, you can enter below generic keys for the desired edition.
+
+Windows 8 Core: FB4WR-32NVD-4RW79-XQFWH-CYQG3
+Windows 8 Core N: VDKYM-JNKJ7-DC4X9-BT3QR-JHRDC
+Windows 8 Single Language: XBRND-QDJTG-CQJDB-7DRBW-RX6HB
+Windows 8 Pro: XKY4K-2NRWR-8F6P2-448RF-CRYQH
+Windows 8 Pro N: BHHD4-FKNK8-89X83-HTGM4-3C73G
+Windows 8 Pro with Media Center: FN22C-W33VB-XM8HM-P32XK-8QG68
+Windows 8 China: KJ3DB-VNXVJ-GJG94-RX4RF-K4PMC
+Windows Embedded 8 Standard: V8YQB-NK79D-3XXDR-HVDQV-M4FCQ
+Windows Embedded 8 Standard Toolkit: D9XDH-78JX9-2KJG8-K7CY9-KF2Q3
+Windows RT 8 (CoreARM): CF9DD-6CNW2-BJWJQ-CVCFX-Y7RKW

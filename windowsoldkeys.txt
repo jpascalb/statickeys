@@ -1,0 +1,58 @@
+Windows Vista
+Edition	Generic Key	Key Type
+Business	4D2XH-PRBMM-8Q22B-K8BM3-MRW4W	Retail
+BusinessN	76884-QXFY2-6Q2WX-2QTQ8-QXX44	Retail
+Enterprise	YQPQV-RW8R3-XMPFG-RXG9R-JGTVF	Retail
+EnterpriseN	Q7J9R-G63R4-BFMHF-FWM9R-RWDMV	Retail
+HomeBasic	RCG7P-TX42D-HM8FM-TCFCW-3V4VD	Retail
+HomeBasicN	HY2VV-XC6FF-MD6WV-FPYBQ-GFJBT	Retail
+HomePremium	X9HTF-MKJQQ-XK376-TJ7T4-76PKF	Retail
+HomePremiumN	KJ6TP-PF9W2-23T3Q-XTV7M-PXDT2	Retail
+Starter	X9PYV-YBQRV-9BXWV-TQDMK-QDWK4	Retail
+Ultimate	VMCB9-FDRV6-6CDQM-RV23K-RP8F7	Retail
+UltimateN	CVX38-P27B4-2X8BT-RXD4J-V7CKX	Retail
+
+Windows Server 2008
+Edition	Generic Key	Key Type
+ServerComputeCluster	24FV9-H7JW8-C8Q6X-BQKMK-K977J	Retail
+ServerDatacenter	6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB	Retail
+ServerDatacenterV	83TWG-TD3TC-HRDP2-K93FJ-Y34YC	OEM:NONSLP
+ServerEnterprise	MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ	Retail
+ServerEnterpriseIA64	H4VB6-QPRWH-VDCYM-996P8-MHKFY	OEM:NONSLP
+ServerEnterpriseV	H8H7M-HDPQT-PJHQF-M7B83-9CVGV	Retail
+ServerHomePremium	RGBMC-PQBVF-94Q9K-HD63B-VY6MP	Retail
+ServerHomeStandard	6C8KR-MD3QK-9GWFW-44CY2-W9CBM	Retail
+ServerMediumBusinessManagement	7XRBY-6MP2K-VQPT8-F37JV-YYQ83	Retail
+ServerMediumBusinessMessaging	6PDTD-JK48J-662TF-8J2QV-R4CRB	Retail
+ServerMediumBusinessSecurity	D694V-CMWKH-PY92X-PFQKQ-JCB69	Retail
+ServerSBSPremium	MRDK3-YYQF3-88BQJ-D6FJG-69YJY	Retail
+ServerSBSPrime	2KB23-GJRBD-W3T9C-6CH2W-39B7V	Retail
+ServerSBSStandard	H4XDD-B27GY-667P6-XWVV7-GYG8J	Retail
+ServerStandard	8YVM4-YQBDH-7WDQM-R27WR-WVCWG	Retail
+ServerStandardV	H9MW3-6V7GK-94P9G-7FTPJ-VKCKF	Retail
+ServerStorageEnterprise	2264C-TD9T8-P8HPW-CC9GH-MHM2V	Retail
+ServerStorageExpress	RCYMT-YX342-8T6YY-XYHYC-3DD7X	Retail
+ServerStorageStandard	FKFT2-WXYY9-WBPY7-6YMY4-X48JF	Retail
+ServerStorageWorkgroup	8X9J7-HCJ7J-3WDJT-QM7D8-464YH	Retail
+ServerWeb	BGT39-9FYH7-X2CYD-T628F-QPQPW	Retail
+ServerWinSB	HPH76-FHFPP-DRW9D-7W2V4-HWGKT	Retail
+ServerWinSBV	2V8G6-KRXYR-MMGXJ-6RWM3-GXCCG	Retail
+
+Windows Server 2008 ESU
+ESU Version	Blocked key sourced from the Internet	Key Type
+Server-ESU-PA	9FPV7-MWGT8-7XPDF-JC23W-WT7TW	Volume:MAK
+
+KMS Host - Windows Vista
+Editions	Blocked keys sourced from the Internet	Key Type
+Business, Enterprise and their N editions	TWVG3-9Q4P8-W9XJF-Y76FJ-DWQ4R	Volume:CSVLK
+
+KMS Host - Windows Server 2008
+Editions	Blocked keys sourced from the Internet	Key Type
+ServerComputeCluster, ServerDatacenter,
+ServerEnterprise, ServerEnterpriseIA64,
+ServerStandard, ServerWeb
+and their V editions	BHC4Q-6D7B7-QMVH7-4MKQH-Y9VK7	Volume:CSVLK
+ServerComputeCluster, ServerEnterprise,
+ServerStandard, ServerWeb
+and their V editions	PVGKG-2R7XQ-7WTFD-FXTJR-DQBQ3	Volume:CSVLK
+ServerComputeCluster, ServerWeb	KH4PC-KJFX6-XFVHQ-GDK2G-JCJY9	Volume:CSVLK

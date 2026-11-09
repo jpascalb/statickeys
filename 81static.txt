@@ -1,0 +1,15 @@
+Installation keys
+In the install process of Windows 8.1, setup will ask to enter the key, you can enter below generic keys for the desired edition.
+
+Windows 8.1 Core: 334NH-RXG76-64THK-C7CKG-D3VPT
+Windows 8.1 Core N: 6NPQ8-PK64X-W4WMM-MF84V-RGB89
+Windows 8.1 Single Language: Y9NXP-XT8MV-PT9TG-97CT3-9D6TC
+Windows 8.1 Pro: XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
+Windows 8.1 Pro N: JRBBN-4Q997-H4RM2-H3B7W-Q68KC
+Windows 8.1 Pro with Media Center: RFNBP-FDD7Q-6FHYQ-9M9Y7-MBGTR
+Windows 8.1 China: TBN78-WRJMK-HRV97-TK64Q-Y4FWX
+Windows 8.1 with Bing: 263WK-3N797-7R437-28BKG-3V428
+Windows 8.1 with Bing N: JBDKF-6NCD6-49K3G-2TV79-BKKKQ
+Windows 8.1 Single Language with Bing: N9722-BV9H6-WTJTT-FPB93-9743X
+Windows 8.1 China with Bing: NT889-MBH4X-8MD4H-X8R2D-WQJQ3
+Windows RT 8.1 (CoreARM): 3QCPN-X9QR2-XP4YC-YMJ3H-2R248
