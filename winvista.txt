@@ -1,0 +1,550 @@
+﻿
+Product Key       : 26VQB-RP3T9-63FVV-VD7RF-H7M2Q
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7332204-00583
+Extended PID      : 00000-00146-322-000583-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:851f81c4-16c6-4de8-a20a-dcebd6b76c89&jq1ippQBAAAAAAAA
+Activation ID     : 851f81c4-16c6-4de8-a20a-dcebd6b76c89
+Description       : Windows Vista Starter - OEM:SLP
+Edition           : Starter
+Part number       : X12-90495
+Label ID          : 00146-322-000-583
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 322000583 (0x133156C7)
+Security          : 809 (0x329)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.957 s
+
+Progress          : 1 of 22 (5%)
+
+--------------------------------------------------------------
+
+Product Key       : X9PYV-YBQRV-9BXWV-TQDMK-QDWK4
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7304205-00004
+Extended PID      : 00000-00146-042-000004-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:89e51a3c-76c0-4beb-a650-53d34c8f8186&CL0BhUkBAAAAAAAA
+Activation ID     : 89e51a3c-76c0-4beb-a650-53d34c8f8186
+Description       : Windows Vista Starter - OEM:NONSLP
+Edition           : Starter
+Part number       : X12-90497
+Label ID          : 00146-042-000-004
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 42000004 (0x280DE84)
+Security          : 659 (0x293)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.989 s
+
+Progress          : 2 of 22 (9%)
+
+--------------------------------------------------------------
+
+Product Key       : RCG7P-TX42D-HM8FM-TCFCW-3V4VD
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-008-0000025-71580
+Extended PID      : 00000-00142-008-000002-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:95c6e80a-0ff8-4bd0-95f2-c4a39b79d09e&BCT0AMoBAAAAAAAA
+Activation ID     : 95c6e80a-0ff8-4bd0-95f2-c4a39b79d09e
+Description       : Windows Vista Home Basic Retail
+Edition           : HomeBasic
+Part number       : X12-80008
+Label ID          : 00142-008-000-002
+Key Type          : Retail
+EULA              : Retail
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 8000002 (0x7A1202)
+Security          : 916 (0x394)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.281 s
+
+Progress          : 3 of 22 (14%)
+
+--------------------------------------------------------------
+
+Product Key       : 2W7FD-9DWCB-Q9CM8-KTDKK-8QXTR
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7332166-00029
+Extended PID      : 00000-00146-321-600029-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:199086aa-6cb8-4e5b-b698-f2be56f1e8ee&OnRWJmMBAAAAAAAA
+Activation ID     : 199086aa-6cb8-4e5b-b698-f2be56f1e8ee
+Description       : Windows Vista Home Basic - OEM:SLP
+Edition           : HomeBasic
+Part number       : X12-90543
+Label ID          : 00146-321-600-029
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 321600029 (0x132B3A1D)
+Security          : 710 (0x2C6)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.970 s
+
+Progress          : 4 of 22 (18%)
+
+--------------------------------------------------------------
+
+Product Key       : W6DWB-9DJG7-8BW3T-X7QWR-PJKCR
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7233105-66009
+Extended PID      : 00000-00144-331-066009-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:91dbad68-4713-4f9c-b351-6e77a8361741&MlV3pwUBAAAAAAAA
+Activation ID     : 91dbad68-4713-4f9c-b351-6e77a8361741
+Description       : Windows Vista Home Basic - OEM:COA
+Edition           : HomeBasic
+Part number       : X12-90546
+Label ID          : 00144-331-066-009
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 144 (0x90)
+Key ID            : 331066009 (0x13BBAA99)
+Security          : 523 (0x20B)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.970 s
+
+Progress          : 5 of 22 (23%)
+
+--------------------------------------------------------------
+
+Product Key       : XJB8X-QG4KP-DHFTC-2CYMX-6V4JR
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7301127-22045
+Extended PID      : 00000-00146-011-222045-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:bb4c2c10-dc0d-4ce6-8824-ee71ddb63c07&OnhWgfABAAAAAAAA
+Activation ID     : bb4c2c10-dc0d-4ce6-8824-ee71ddb63c07
+Description       : Windows Vista Home Basic - OEM:NONSLP
+Edition           : HomeBasic
+Part number       : X12-90528
+Label ID          : 00146-011-222-045
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 11222045 (0xAB3C1D)
+Security          : 993 (0x3E1)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.963 s
+
+Progress          : 6 of 22 (27%)
+
+--------------------------------------------------------------
+
+Product Key       : 3YG4J-HGX2K-769M7-PGF2T-82YGB
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-342-8952783-71246
+Extended PID      : 00000-00142-342-895278-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:9e042223-03bf-49ae-808f-ff37f128d40d&XFXgqNABAAAAAAAA
+Activation ID     : 9e042223-03bf-49ae-808f-ff37f128d40d
+Description       : Windows Vista Home Premium Retail
+Edition           : HomePremium
+Part number       : X13-04108
+Label ID          : 00142-342-895-278
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 342895278 (0x14702AAE)
+Security          : 929 (0x3A1)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.294 s
+
+Progress          : 7 of 22 (32%)
+
+--------------------------------------------------------------
+
+Product Key       : 2TYBW-XKCQM-XY9X3-JDXYP-6CJ97
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7332157-00211
+Extended PID      : 00000-00146-321-500211-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:bffdc375-bbd5-499d-8ef1-4f37b61c895f&ZmhTJvsAAAAAAAAA
+Activation ID     : bffdc375-bbd5-499d-8ef1-4f37b61c895f
+Description       : Windows Vista Home Premium - OEM:SLP
+Edition           : HomePremium
+Part number       : X12-90558
+Label ID          : 00146-321-500-211
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 321500211 (0x1329B433)
+Security          : 502 (0x1F6)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 2.003 s
+
+Progress          : 8 of 22 (36%)
+
+--------------------------------------------------------------
+
+Product Key       : 7XJRC-B4D6K-HQYGC-PH4V6-9H6VX
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7711462-67732
+Extended PID      : 00000-00154-114-667732-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:a3481201-436e-4fc9-88b4-34ccf7f81789&qGGrjfYBAAAAAAAA
+Activation ID     : a3481201-436e-4fc9-88b4-34ccf7f81789
+Description       : Windows Vista Home Premium - OEM:COA
+Edition           : HomePremium
+Part number       : X14-23974
+Label ID          : 00154-114-667-732
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 154 (0x9A)
+Key ID            : 114667732 (0x6D5B0D4)
+Security          : 1005 (0x3ED)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.976 s
+
+Progress          : 9 of 22 (41%)
+
+--------------------------------------------------------------
+
+Product Key       : FBKRR-W66YH-9G67B-BWVYM-XWQ3Y
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7353953-36376
+Extended PID      : 00000-00146-539-536376-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:f3acdd3c-119a-4932-a3d7-0b6f33a1dca9&8FdRwEMAAAAAAAAA
+Activation ID     : f3acdd3c-119a-4932-a3d7-0b6f33a1dca9
+Description       : Windows Vista Home Premium - OEM:NONSLP
+Edition           : HomePremium
+Part number       : X13-85689
+Label ID          : 00146-539-536-376
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 539536376 (0x2028ABF8)
+Security          : 135 (0x87)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 2.005 s
+
+Progress          : 10 of 22 (45%)
+
+--------------------------------------------------------------
+
+Product Key       : J79FD-DRTVK-84FJM-R66H3-GWYJQ
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-356-0418735-71797
+Extended PID      : 00000-00142-356-041873-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:9de9abe2-d01d-4538-af84-4498bdbc2ba3&IolxKj0BAAAAAAAA
+Activation ID     : 9de9abe2-d01d-4538-af84-4498bdbc2ba3
+Description       : Windows Vista Business Retail
+Edition           : Business
+Part number       : X13-04109
+Label ID          : 00142-356-041-873
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 356041873 (0x1538C491)
+Security          : 634 (0x27A)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.304 s
+
+Progress          : 11 of 22 (50%)
+
+--------------------------------------------------------------
+
+Product Key       : 2TJTJ-C72D7-7BCYH-FV3HT-JGD4F
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7332141-00029
+Extended PID      : 00000-00146-321-400029-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:fd3bcb98-5c55-4b2d-ae32-a4515e3c17a3&ullQppUBAAAAAAAA
+Activation ID     : fd3bcb98-5c55-4b2d-ae32-a4515e3c17a3
+Description       : Windows Vista Business - OEM:SLP
+Edition           : Business
+Part number       : X12-90569
+Label ID          : 00146-321-400-029
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 321400029 (0x13282CDD)
+Security          : 811 (0x32B)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.953 s
+
+Progress          : 12 of 22 (55%)
+
+--------------------------------------------------------------
+
+Product Key       : KJ7WF-8BMGQ-JRQGX-JRQDX-V829T
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7203556-97909
+Extended PID      : 00000-00144-035-597909-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:f758e09b-7c7c-492c-b78c-aba5bd4e3f5b&qlw+hFIAAAAAAAAA
+Activation ID     : f758e09b-7c7c-492c-b78c-aba5bd4e3f5b
+Description       : Windows Vista Business - OEM:COA
+Edition           : Business
+Part number       : X12-90572
+Label ID          : 00144-035-597-909
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 144 (0x90)
+Key ID            : 35597909 (0x21F2E55)
+Security          : 165 (0xA5)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 2.009 s
+
+Progress          : 13 of 22 (59%)
+
+--------------------------------------------------------------
+
+Product Key       : PQY8J-BRM4T-X26HC-T24QQ-43TX3
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7303924-96193
+Extended PID      : 00000-00146-039-296193-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:177df7ed-709f-454a-91bd-947ec8a1e668&gjmvBDIAAAAAAAAA
+Activation ID     : 177df7ed-709f-454a-91bd-947ec8a1e668
+Description       : Windows Vista Business - OEM:NONSLP
+Edition           : Business
+Part number       : X12-90567
+Label ID          : 00146-039-296-193
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 39296193 (0x2579CC1)
+Security          : 100 (0x64)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.972 s
+
+Progress          : 14 of 22 (64%)
+
+--------------------------------------------------------------
+
+Product Key       : YFKBB-PQJJV-G996G-VWGXY-2V3X8
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-236-0200005-71268
+Extended PID      : 00000-00142-236-020000-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:4f3d1606-3fea-4c01-be3c-8d671c401e3b&QMIinKoAAAAAAAAA
+Activation ID     : 4f3d1606-3fea-4c01-be3c-8d671c401e3b
+Description       : Windows Vista Business - GVLK
+Edition           : Business
+Part number       : X12-89084
+Label ID          : 00142-236-020-000
+Key Type          : Volume:GVLK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 236020000 (0xE116120)
+Security          : 341 (0x155)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 1.284 s
+
+Progress          : 15 of 22 (68%)
+
+--------------------------------------------------------------
+
+Product Key       : VPB3X-8M3RW-QHD99-V498W-Y7TPX
+Profile           : 6574 - Beta - Windows 7
+Result            : Specified key is valid
+Product ID        : 00000-039-5002743-71485
+Extended PID      : 00000-00142-039-500274-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:74e464f6-45db-41f6-9356-66260bdf3c65&5HO1BMUAAAAAAAAA
+Activation ID     : 74e464f6-45db-41f6-9356-66260bdf3c65
+Description       : Windows Vista ALL Volume SKUs - MAK
+Edition           : Business;BusinessN;Enterprise;EnterpriseN
+Part number       : X12-89092
+Label ID          : 00142-039-500-274
+Key Type          : Volume:MAK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 39500274 (0x25AB9F2)
+Security          : 394 (0x18A)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 25.612 s
+
+Progress          : 16 of 22 (73%)
+
+--------------------------------------------------------------
+
+Product Key       : GFTWD-WXRWV-37CK6-HP2MV-PXKRG
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-379-3213856-71899
+Extended PID      : 00000-00142-379-321385-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:30fab9cc-8614-4339-989f-7ce61fb7a5c4&Uvg3rUIAAAAAAAAA
+Activation ID     : 30fab9cc-8614-4339-989f-7ce61fb7a5c4
+Description       : Windows Vista Ultimate Retail
+Edition           : Ultimate
+Part number       : X13-04111
+Label ID          : 00142-379-321-385
+Key Type          : Retail
+EULA              : MSDN
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 379321385 (0x169BFC29)
+Security          : 133 (0x85)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.303 s
+
+Progress          : 17 of 22 (77%)
+
+--------------------------------------------------------------
+
+Product Key       : 3YDB8-YY3P4-G7FCW-GJMPG-VK48C
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7332132-00152
+Extended PID      : 00000-00146-321-300152-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:5e802570-4657-4e84-bfbc-6a0e531b84af&cE1NpngBAAAAAAAA
+Activation ID     : 5e802570-4657-4e84-bfbc-6a0e531b84af
+Description       : Windows Vista Ultimate - OEM:SLP
+Edition           : Ultimate
+Part number       : X12-90722
+Label ID          : 00146-321-300-152
+Key Type          : OEM:SLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 321300152 (0x1326A6B8)
+Security          : 753 (0x2F1)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 2.012 s
+
+Progress          : 18 of 22 (82%)
+
+--------------------------------------------------------------
+
+Product Key       : P3YDW-7XG4B-B78MQ-VC9R7-DYRC3
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7200937-88361
+Extended PID      : 00000-00144-009-388361-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:f79b5e33-4a4e-451c-9e8a-55dcc9bdb89d&koIeAUIBAAAAAAAA
+Activation ID     : f79b5e33-4a4e-451c-9e8a-55dcc9bdb89d
+Description       : Windows Vista Ultimate - OEM:COA
+Edition           : Ultimate
+Part number       : X12-90724
+Label ID          : 00144-009-388-361
+Key Type          : OEM:COA
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 144 (0x90)
+Key ID            : 9388361 (0x8F4149)
+Security          : 644 (0x284)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 2.281 s
+
+Progress          : 19 of 22 (86%)
+
+--------------------------------------------------------------
+
+Product Key       : Q3XT6-DC249-DKYJY-6YCTY-DC689
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-OEM-7300533-39284
+Extended PID      : 00000-00146-005-339284-02-1033-19045.0000-3132026
+ActConfig ID      : msft2005:33a7e8d3-e2ab-413b-96a6-27c83b21c695&KPGiALUBAAAAAAAA
+Activation ID     : 33a7e8d3-e2ab-413b-96a6-27c83b21c695
+Description       : Windows Vista Ultimate - OEM:NONSLP
+Edition           : Ultimate
+Part number       : X12-90577
+Label ID          : 00146-005-339-284
+Key Type          : OEM:NONSLP
+EULA              : OEM
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 146 (0x92)
+Key ID            : 5339284 (0x517894)
+Security          : 874 (0x36A)
+License Type      : 2
+Upgrade Key       : No
+Query Time        : 1.986 s
+
+Progress          : 20 of 22 (91%)
+
+--------------------------------------------------------------
+
+Product Key       : YQPQV-RW8R3-XMPFG-RXG9R-JGTVF
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-236-0000007-71107
+Extended PID      : 00000-00142-236-000000-00-1033-19045.0000-3132026
+ActConfig ID      : msft2005:b51791c2-b562-4b73-97b0-735a0e4429a6&ACYiHBMBAAAAAAAA
+Activation ID     : b51791c2-b562-4b73-97b0-735a0e4429a6
+Description       : Windows Vista Enterprise Retail
+Edition           : Enterprise
+Part number       : X12-89098
+Label ID          : 00142-236-000-000
+Key Type          : Retail
+EULA              : Retail
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 236000000 (0xE111300)
+Security          : 550 (0x226)
+License Type      : 0
+Upgrade Key       : No
+Query Time        : 1.310 s
+
+Progress          : 21 of 22 (95%)
+
+--------------------------------------------------------------
+
+Product Key       : VKK3X-68KWM-X2YGT-QR4M6-4BWMV
+Profile           : 6002 - Windows Vista - Server 2008
+Result            : Specified key is valid
+Product ID        : 00000-236-0200203-71631
+Extended PID      : 00000-00142-236-020020-03-1033-19045.0000-3132026
+ActConfig ID      : msft2005:cfd8ff08-c0d7-452b-9f60-ef5c70c32094&aMIinAYAAAAAAAAA
+Activation ID     : cfd8ff08-c0d7-452b-9f60-ef5c70c32094
+Description       : Windows Vista Enterprise - GVLK
+Edition           : Enterprise
+Part number       : X12-89089
+Label ID          : 00142-236-020-020
+Key Type          : Volume:GVLK
+EULA              : Volume
+Algorithm ID      : msft:rm/algorithm/pkey/2005
+Group ID          : 142 (0x8E)
+Key ID            : 236020020 (0xE116134)
+Security          : 13 (0xD)
+License Type      : 3
+Upgrade Key       : No
+Query Time        : 1.304 s
+
+Progress          : 22 of 22 (100%)
+
+--------------------------------------------------------------
